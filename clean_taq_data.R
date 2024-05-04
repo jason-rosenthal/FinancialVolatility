@@ -58,7 +58,7 @@ drv <- hfd %>%
   ungroup()
 
 #save(drv, file = file.path(data_path, "daily_data.RData"))
-load(file.path(data_path, "daily_data.RData"))
+#load(file.path(data_path, "daily_data.RData"))
 # =============================================================================.
 # PLOTS -------------
 # =============================================================================.
